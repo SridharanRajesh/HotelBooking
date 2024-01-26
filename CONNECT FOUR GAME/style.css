@@ -1,0 +1,28 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    background-color: rgb(123, 188, 149);
+}
+#board{
+    height: 540px;
+    width: 630px;
+    background-color: rgb(241, 103, 39);
+    border: 10px solid rgb(126, 58, 8);
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+}
+.title{
+    height: 70px;
+    width: 70px;
+    margin: 5px;
+    background-color: white;
+    border-radius: 50%;
+    border: 5px solid rgb(126, 58, 8);
+}
+.red-piece{
+    background-color: red;
+}
+.green-piece{
+    background-color: green;
+}
