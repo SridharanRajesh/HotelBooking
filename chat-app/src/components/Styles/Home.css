@@ -1,0 +1,18 @@
+.home{
+    background-color: rgb(214, 230, 230);
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px;
+}
+
+.container{
+    border: 1px solid rgb(222, 27, 27);
+    border-radius: 10px;
+    width: 65%;
+    height: 80%;
+    display: flex;
+    overflow: hidden;
+    border-radius: 20px;
+}

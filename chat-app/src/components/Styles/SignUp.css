@@ -1,0 +1,10 @@
+.wrap{
+    background-image: url("https://img.freepik.com/premium-vector/shopping-doodle-outline-seamless-pattern-background-vector-illustration_7087-2895.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: block;
+    left: 0%;
+    height: 100%;
+    position: fixed;
+    right: 0;
+}
