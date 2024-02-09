@@ -1,0 +1,18 @@
+.k5{
+    background-image: url('./Hotel5.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    padding-top: 3%;
+    padding-bottom:4.3%;
+}
+.light5{
+    color: white;
+    margin: 70px auto;
+    /* margin-left: 600px; */
+    /*border:2px solid rgb(237, 243, 242);*/
+    padding: 20px;
+    width: 100px;
+    box-shadow: 0 0 20px rgb(214, 131, 14);
+    border-radius: 10px;
+}

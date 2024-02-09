@@ -1,0 +1,20 @@
+.k8{
+    background-image: url('./Hotel8.jpg');
+    background-repeat: no-repeat;
+    background-size: right;
+    background-attachment: fixed;
+    padding-top: 0%;
+    padding-bottom: 18%;
+
+}
+.light8{
+    color: white;
+    margin: 70px auto;
+    /* margin-left: 600px; */
+    /*border:2px solid rgb(237, 243, 242);*/
+    padding: 20px;
+    width: 100px;
+    box-shadow: 0 0 20px rgb(59, 148, 141);
+    border-radius: 10px;
+}
+

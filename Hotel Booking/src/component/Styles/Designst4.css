@@ -1,0 +1,67 @@
+.background{
+    background-image: url('hotel4.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    padding-top: 4%;
+    padding-bottom: 7.8%;
+}
+.circle{
+    display: flex;
+    width: 50px;
+    height: 50px;
+    background-color:#58ABF8;
+    border-radius: 50%;
+    border: 2px solid white;
+    border-color: 'white';
+    transition: all .5s ease;
+}
+.circle1{
+    display: flex;
+    width: 50px;
+    height: 50px;
+    background-color: #1608BD;
+    border: 2px solid white;
+    border-radius: 50%;
+}
+.circle2{
+    display: flex;
+    width: 50px;
+    height: 50px;
+    background-color: black;
+    border-radius: 50%;
+    border: 2px solid white;
+}
+.circle3{
+    border: 2px solid white;
+    display: flex;
+    width: 50px;
+    height: 50px;
+    background-color: white;
+    border-radius: 50%;
+}
+
+.circle:hover{
+    background-color:white;
+}
+.circle1:hover{
+    background-color:white;
+}
+.circle2:hover{
+    background-color:#07A63D;
+}
+.circle3:hover{
+    background-color:#F90505;
+}
+.light{
+    color: white;
+    margin: 70px auto;
+    /* margin-left: 600px; */
+    /*border:2px solid rgb(237, 243, 242);*/
+    padding: 20px;
+    width: 100px;
+    box-shadow: 0 0 20px rgb(251, 250, 250);
+    border-radius: 10px;
+    /*background-color: white;
+    opacity: 0.8;*/
+}

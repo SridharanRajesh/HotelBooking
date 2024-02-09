@@ -1,0 +1,21 @@
+.k3{
+    background-image:url('./Hotel3.jpg') ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    padding-top: 1%;
+    padding-bottom: 11.6%;
+
+
+}
+.light3{
+    color: white;
+    margin: 70px auto;
+    /* margin-left: 600px; */
+    /*border:2px solid rgb(237, 243, 242);*/
+    padding: 20px;
+    width: 100px;
+    box-shadow: 0 0 20px rgb(205, 210, 217);
+    border-radius: 10px;
+}
+
